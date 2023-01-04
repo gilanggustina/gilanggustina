@@ -6,15 +6,15 @@
 Portfolio
 
 A. Website
-  1. Aplikasi Sistem Informasi Manajemen Klinik Kemenhub (https://kemenhub.medirest.co.id/)
+  1. Aplikasi Sistem Informasi Manajemen Klinik Kemenhub (https://kemenhub.medirest.co.id/) <br>
      (Laravel,Jquery,Vue,MySql)
-  2. Aplikasi Manajemen Taekwondo / Aplikasi TIIS (https://tiis.olahrago.id/)
+  2. Aplikasi Manajemen Taekwondo / Aplikasi TIIS (https://tiis.olahrago.id/) <br>
      (NuxtJs,Vuetify,Typescript)
-  3. Manajemen Kompetensi Karyawan / Mapping Kompetensi
+  3. Manajemen Kompetensi Karyawan / Mapping Kompetensi <br>
      (Laravel,Jquery,Bootstrap,MySql)
-  4. Web Portofolio 
+  4. Web Portofolio <br>
      (HTML,CSS,Tailwind)
-  5. Aplikasi Manajement Kecamatan
+  5. Aplikasi Manajement Kecamatan <br>
      (Codeigniter,Bootsrap,Jquery,MySql)
 
 <h3 align="left">Connect with me:</h3>
